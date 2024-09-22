@@ -1,12 +1,15 @@
-<div align="center">![EgSq](https://github.com/user-attachments/assets/b455a79d-3823-4050-acd4-6ce3975d0bf1)</div>
-
-
 <h1 align="center">
 
 Привет! Меня зовут Антон!
 
 Занимаюсь аналитикой данных 📈
 
-Готов к сотрудничеству 🤝
-
 </h1>  
+
+<p align="center">
+  <img src="![EgSq](https://github.com/user-attachments/assets/97ab1d8b-f919-4a35-9520-67f0baa73999)"/>
+</p>
+
+
+
+
