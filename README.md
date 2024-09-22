@@ -1,4 +1,5 @@
-https://github.com/azhur911/azhur911/blob/main/EgSq.gif
+
+![EgSq](https://github.com/user-attachments/assets/b455a79d-3823-4050-acd4-6ce3975d0bf1)
 
 Привет! Меня зовут Антон!
 
