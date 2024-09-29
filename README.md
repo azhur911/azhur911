@@ -30,7 +30,7 @@
 | Название проекта | Описание проекта | Стек |
 | ------------- | ------------- | ------------- |
 | Исследование нескольких аспектов мобильного приложения <a href="https://github.com/azhur911/projects">  Проект 1 </a> | Первичный анализ данных; Написание функции по подсчету Retention Rate;Расчет основных метрик для оценки A/B тестов (Conversion Rate, ARPPU, ARPU) | Python (pandas, numpy, matplotlib, scypy, stats и др.), Jupyter Notebook, API)   |
-| Проект <a href='https://github.com/azhur911/project-e-commerce'> E-commerce </a>  | Анализ поведения пользователей, работы доставки товаров, когортный анализ пользователей, RFM-анализ   | Python (pandas, numpy, matplotlib, scypy, stats и др.), Jupyter Notebook  | 
+| Проект <a href='https://github.com/azhur911/project-e-commerce'> E-commerce </a>  | Анализ поведения пользователей, работы, доставки товаров, когортный анализ пользователей, RFM-анализ   | Python (pandas, numpy, matplotlib, scypy, stats и др.), Jupyter Notebook  | 
 |  Создание <a href="https://public.tableau.com/app/profile/anton.anton6941/viz/KarpovDashboardPractice_17203406252840/Dashboard1?publish=yes">  дашборда </a> |  Дана книга с графиками, из которых нужно создать дашборд  | Tableau |
 |   |   |   |
 |   |   |   |
